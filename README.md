@@ -14,3 +14,10 @@ visual studio
 One tglplus.vcxproj in visual studio and build.
 
 run RelWithDebInfo\tglplus.exe
+
+The output results should lookd something like this with appropriate data:
+c:\Users\rrwin\Downloads\dev\tglplus\build>RelWithDebInfo\tglplus.exe
+Detect Intel Tiger Lake Plus
+Model detected:  Lion Cove (0xbd)
+Model detected to be >= Tiger Lake.
+AVX 10 not supported.
